@@ -3,6 +3,10 @@ using TestNinja.Fundamentals;
 
 namespace TestNinja.UnitTests
 {
+    // Try and add all the scenarios implementing the tests
+    // Make sure to check all the execution paths. and create a test based on that number
+
+    // Also remember that unit tests must not call any external code, Keep it Simple.
 
     // Add TestMethods must be public void
 

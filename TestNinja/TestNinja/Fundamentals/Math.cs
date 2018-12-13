@@ -14,6 +14,7 @@ namespace TestNinja.Fundamentals
             return (a > b) ? a : b; // Two execution paths
         }
 
+        // Testing arrays and collections
         public IEnumerable<int> GetOddNumbers(int limit)
         {
             for (var i = 0; i <= limit; i++)
