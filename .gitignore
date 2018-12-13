@@ -1,8 +1,9 @@
 # Don't track content of these folders
-node_modules/
-someOtherfoler/
-.vs\
-packages\
+*\.vs
+*\packages
+*\bin
+*\obj\Debug
+*\obj
 
 
 # Compiled source #
@@ -12,8 +13,6 @@ packages\
 *.dll
 *.exe
 *.o
-*.so
-
 *.so
 
 # Packages #
